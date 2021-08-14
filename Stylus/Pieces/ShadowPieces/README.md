@@ -12,4 +12,4 @@
  - Last update: 14.08.2021
 
 # Screenshots:
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/images/screenshots/dark-minimalistic-lobby.png">
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/images/cburnett.png">
