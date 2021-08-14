@@ -1,7 +1,7 @@
 # Choose your favorit piece set for Lichess.org ♥
 
 # Piece Sets:
- - cburnett Shadow Version
+ - cburnett - Shadow Version
 
 # Development status:
  - Active
