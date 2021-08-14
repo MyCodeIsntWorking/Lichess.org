@@ -1,1 +1,1 @@
-# Some Stylus Themes & Piece Sets for Lichess.org
+# Themes & Piece Sets for Lichess.org
