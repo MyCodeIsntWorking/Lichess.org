@@ -16,8 +16,8 @@
  - Last update: 30.06.2021
 
 # Screenshots:
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/Stylus/master/images/screenshots/dark-minimalistic-lobby.png">
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/screenshots/dark-minimalistic-lobby.png">
  
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/Stylus/master/images/screenshots/light-minimalistic-lobby.png">
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/screenshots/light-minimalistic-lobby.png">
  
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/Stylus/master/images/screenshots/transparent-minimalistic-lobby.png">
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/screenshots/transparent-minimalistic-lobby.png">
