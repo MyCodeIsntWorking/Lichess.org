@@ -184,7 +184,7 @@
         cursor: pointer;
         border: 1px solid #404040;
         box-shadow: 0 4px 10px 0px rgb(0 0 0 / 0%);
-        background: rgba(204,204,204,0.05) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Stylus/master/lichess.org/images/hook.png);
+        background: rgba(204,204,204,0.05) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/hook.png);
         background-repeat: no-repeat;
         background-position: center;
         color: #bababa;
@@ -196,7 +196,7 @@
     }
 
     .button.button-metal.config_hook:hover {
-        background: rgba(16,43,68,0.66) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Stylus/master/lichess.org/images/hook-hover.png);
+        background: rgba(16,43,68,0.66) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/hook-hover.png);
         background-repeat: no-repeat;
         background-position: center;
         color: #cccccc;
@@ -209,7 +209,7 @@
         cursor: pointer;
         border: 1px solid #404040;
         box-shadow: 0 4px 10px 0px rgb(0 0 0 / 0%);
-        background: rgba(204,204,204,0.05) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Stylus/master/lichess.org/images/friend.png);
+        background: rgba(204,204,204,0.05) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/friend.png);
         background-repeat: no-repeat;
         background-position: center;
         color: #bababa;
@@ -221,7 +221,7 @@
     }
 
     .button.button-metal.config_friend:hover {
-        background: rgba(16,43,68,0.66) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Stylus/master/lichess.org/images/friend-hover.png);
+        background: rgba(16,43,68,0.66) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/friend-hover.png);
         background-repeat: no-repeat;
         background-position: center;
         color: #cccccc;
@@ -234,7 +234,7 @@
         cursor: pointer;
         border: 1px solid #404040;
         box-shadow: 0 4px 10px 0px rgb(0 0 0 / 0%);
-        background: rgba(204,204,204,0.05) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Stylus/master/lichess.org/images/ai.png);
+        background: rgba(204,204,204,0.05) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/ai.png);
         background-repeat: no-repeat;
         background-position: center;
         color: #bababa;
@@ -246,7 +246,7 @@
     }
 
     .button.button-metal.config_ai:hover {
-        background: rgba(16,43,68,0.66) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Stylus/master/lichess.org/images/ai-hover.png);
+        background: rgba(16,43,68,0.66) url(https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/ai-hover.png);
         background-repeat: no-repeat;
         background-position: center;
         color: #cccccc;
@@ -520,7 +520,7 @@
 
     /* Puzzle Racer */
     .racer .puz-side__top::before {
-        background-image: url(https://raw.githubusercontent.com/MyCodeIsntWorking/Stylus/master/lichess.org/images/checkered-flag.png);
+        background-image: url(https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/checkered-flag.png);
         background-repeat: no-repeat;
     }
 
@@ -558,7 +558,7 @@
     }
 
     .racer__race::before {
-        background-image: url(https://raw.githubusercontent.com/MyCodeIsntWorking/Stylus/master/lichess.org/images/road1.png);
+        background-image: url(https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/road1.png);
         background-position-y: 6px;
     }
 
@@ -573,7 +573,7 @@
     }
 
     .puz-side__top::before {
-        background-image: url(https://raw.githubusercontent.com/MyCodeIsntWorking/Stylus/master/lichess.org/images/tornado.png);
+        background-image: url(https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/images/tornado.png);
     }
 
     .puz-clock__pov {
