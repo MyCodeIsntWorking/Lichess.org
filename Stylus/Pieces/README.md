@@ -9,5 +9,4 @@
  - Last update: 14.08.2021
 
 # Screenshots:
- - cburnett:
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/cburnett.png">
