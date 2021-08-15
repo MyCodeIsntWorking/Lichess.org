@@ -18,3 +18,4 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/light-minimalistic-lobby.png">
  
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/transparent-minimalistic-lobby.png">
+<a href="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/backgrounds/001.png">Background image</a>
