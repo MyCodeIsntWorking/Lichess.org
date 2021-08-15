@@ -10,3 +10,6 @@
 </p>
 
 # Pieces:
+<p align="center">
+ <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/pieces.png" /></a>
+</p>
