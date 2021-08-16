@@ -13,9 +13,11 @@
  - Last update: 30.06.2021
 
 # Screenshots:
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/dark-minimalistic-lobby.png">
+<p align="center">
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/dark-minimalistic-lobby.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/seperator.png"><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/light-minimalistic-lobby.png">
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/light-minimalistic-lobby.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/seperator.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/transparent-minimalistic-lobby.png">
 <a href="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/backgrounds/001.png">Background image</a>
+</p>
