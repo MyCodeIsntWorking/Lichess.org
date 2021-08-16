@@ -14,10 +14,10 @@
 
 # Screenshots:
 <p align="center">
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/dark-minimalistic-lobby.png"><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/seperator.png"><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/light-minimalistic-lobby.png"><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/seperator.png"><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/dark-minimalistic-lobby.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/seperator.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/light-minimalistic-lobby.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/transparent-minimalistic-lobby.png">
-<a href="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/backgrounds/001.png">Background image</a>
+<a href="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/backgrounds/001.png">Used background image</a><br><br><br>
 </p>
