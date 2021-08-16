@@ -9,7 +9,7 @@
  - Active
  - Last update: 16.08.2021
 
-# Screenshots:
+# Shadow Versions:
 <p align="center">
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/alpha.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/seperator.png"><br>
