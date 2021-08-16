@@ -8,7 +8,7 @@
  - Active
  - Last update: 14.08.2021
 
-# Shadow Versions - Screenshots:
+# Shadow Versions:
 <p align="center">
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/cburnett.png">
 </p>
