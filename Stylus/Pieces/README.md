@@ -5,6 +5,7 @@
 [![alpha](https://img.shields.io/badge/Instant%20install%20-%20alpha%20Shadow%20Version-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/alpha.user.css)
 [![cburnett](https://img.shields.io/badge/Instant%20install%20-%20cburnett%20Shadow%20Version-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/cburnett.user.css)
 [![horsey](https://img.shields.io/badge/Instant%20install%20-%20horsey%20Shadow%20Version-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/horsey.user.css)
+[![letter](https://img.shields.io/badge/Instant%20install%20-%20letter%20Shadow%20Version-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/letter.user.css)
 
 # Development status:
  - Active
@@ -17,4 +18,6 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/cburnett.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/seperator.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/horsey.png"><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/seperator.png"><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/letter.png"><br>
 </p>
