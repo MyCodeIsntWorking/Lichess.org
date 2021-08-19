@@ -1,3 +1,5 @@
 # Stuff for the chess plattform https://lichess.org/
 <br>
-<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus"><image src="https://cdn.add0n.com/icons/stylus64.png"></a>
+<p align="center">
+<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus"><image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus.png"></a>
+</p>
