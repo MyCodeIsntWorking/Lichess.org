@@ -4,12 +4,12 @@
 
 # Boards:
 <p align="center">
- <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/Custom/screenshots/boards.png" /></a>
+ <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/boards.png" /></a>
 </p>
 
 # Pieces - Shadow Versions:
 <p align="center">
- <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/screenshots/pieces.png" /></a>
+ <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/pieces.png" /></a>
 </p>
 
 # Themes:
