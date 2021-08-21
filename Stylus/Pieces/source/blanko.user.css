@@ -1,0 +1,60 @@
+/* ==UserStyle==
+@name           Lichess.org - blanko Shadow Pieces
+@namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces
+@version        1.0.0
+@description    blanko Shadow Pieces
+@author         BrainAFK
+@homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces
+@supportURL     https://github.com/MyCodeIsntWorking/Lichess.org/issues
+@updateURL      https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/blanko.user.css
+==/UserStyle== */
+
+@-moz-document url-prefix("https://lichess.org/") {
+    .is2d .pawn.white {
+        background-image:url('') !important;
+    }
+
+    .is2d .knight.white {
+        background-image:url('') !important;
+    }
+
+    .is2d .bishop.white {
+        background-image:url('') !important;
+    }
+
+    .is2d .rook.white {
+        background-image:url('') !important;
+    }
+
+    .is2d .queen.white {
+        background-image:url('') !important;
+    }
+
+    .is2d .king.white {
+        background-image:url('') !important;
+    }
+
+    .is2d .pawn.black {
+        background-image:url('') !important;
+    }
+
+    .is2d .knight.black {
+        background-image:url('') !important;
+    }
+
+    .is2d .bishop.black {
+        background-image:url('') !important;
+    }
+
+    .is2d .rook.black {
+        background-image:url('') !important;
+    }
+
+    .is2d .queen.black {
+        background-image:url('') !important;
+    }
+
+    .is2d .king.black {
+        background-image:url('') !important;
+    }
+}
