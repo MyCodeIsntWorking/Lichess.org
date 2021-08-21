@@ -19,7 +19,6 @@
     .orientation-black .ranks coord:nth-child(2n+1) {
         color: #93A3AB !important;
     }
-    
     .orientation-white .files coord:nth-child(2n),
     .orientation-white .ranks coord:nth-child(2n+1),
     .orientation-black .files coord:nth-child(2n+1),
