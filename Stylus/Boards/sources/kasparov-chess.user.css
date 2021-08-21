@@ -58,4 +58,7 @@
     #promotion-choice square:hover {
         box-shadow: inset 0 0 48px 8px rgba(116,106,195,0.55) !important;
     }
+    square.check {
+        background: radial-gradient(ellipse at center, rgba(208, 120, 173, .75) 0%, rgba(208, 69, 149, .8) 50%, rgba(169,0,0,0) 89%, rgba(158,0,0,0) 100%)
+    }
 }
