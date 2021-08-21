@@ -3,13 +3,13 @@
 
 # User CSS Codes:
 [![alpha](https://img.shields.io/badge/Instant%20install%20-%20alpha-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/alpha.user.css)
-[![california](https://img.shields.io/badge/Instant%20install%20-%20california-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/california.user.css)
+[![california](https://img.shields.io/badge/Instant%20install%20-%20california-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/california.user.css)
 [![cburnett](https://img.shields.io/badge/Instant%20install%20-%20cburnett-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/cburnett.user.css)
-[![chess7](https://img.shields.io/badge/Instant%20install%20-%20chess7-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/chess7.user.css)
+[![chess7](https://img.shields.io/badge/Instant%20install%20-%20chess7-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/chess7.user.css)
 [![fantasy](https://img.shields.io/badge/Instant%20install%20-%20fantasy-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/fantasy.user.css)
-[![horsey](https://img.shields.io/badge/Instant%20install%20-%20horsey-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/horsey.user.css)
+[![horsey](https://img.shields.io/badge/Instant%20install%20-%20horsey-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/horsey.user.css)
 [![letter](https://img.shields.io/badge/Instant%20install%20-%20letter-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/letter.user.css)
-[![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/staunty-luxury.user.css)
+[![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/ShadowPieces/staunty-luxury.user.css)
 
 # Development status:
  - Active
