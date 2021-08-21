@@ -10,5 +10,6 @@
 
 # Screenshots:
 <p align="center">
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/kasparov-chess.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/kasparov-chess.png"><br>
+<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">The kasparov-chess pieces can you find here</a><br><br><br>
 </p>
