@@ -13,6 +13,7 @@
 <p align="center">
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/kasparov-chess.png"><br>
 <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">The Kasparov Chess piece set can you find here</a><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/sterling.png"><br>
 <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">The Play Magnus piece set can you find here</a><br><br><br>
 </p>
