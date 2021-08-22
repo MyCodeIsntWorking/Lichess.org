@@ -9,7 +9,7 @@
 [![Transparent Minimalistic Lobby](https://img.shields.io/badge/Instant%20install%20-%20Transparent%20Minimalistic%20Lobby-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/transparent-minimalistic-lobby.user.css)
 
 # Development status:
- - Active
+ - Active 
  - Last update: 30.06.2021
 
 # Screenshots:
