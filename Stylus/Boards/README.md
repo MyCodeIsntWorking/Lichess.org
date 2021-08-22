@@ -2,9 +2,9 @@
  - Click one of the button bellow for Stylus instant install:
 
 # User CSS Codes:
-[![kasparov-chess](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/kasparov-chess.user.css)
-[![frenzy](https://img.shields.io/badge/Instant%20install%20-%20frenzy-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/frenzy.user.css)
-[![sterling](https://img.shields.io/badge/Instant%20install%20-%20sterling-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/sterling.user.css)
+[![kasparov-chess](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess-3F5B6A.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/kasparov-chess.user.css)
+[![frenzy](https://img.shields.io/badge/Instant%20install%20-%20frenzy-54C688.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/frenzy.user.css)
+[![sterling](https://img.shields.io/badge/Instant%20install%20-%20sterling-888888.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/sterling.user.css)
 
 # Development status:
  - Active
