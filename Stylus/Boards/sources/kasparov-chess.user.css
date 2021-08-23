@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - kasparov-chess Board
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards
-@version        1.0.1
+@version        1.0.0
 @description    kasparov-chess Board
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards
@@ -26,10 +26,10 @@
         color: #395564 !important;
     }
     square.selected {
-        background-color: rgba(116,106,195,0.60) !important;
+        background-color: rgba(116,106,195,0.85) !important;
     }
     square.last-move {
-        background-color: rgba(116,106,195,0.50) !important;
+        background-color: rgba(93, 121, 219, .2) !important;
     }
     square.move-dest {
         background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFwSURBVHgB7ZbtTcMwEIYvnYAN8AjZADYgG9AN8AbNBrBBygQREwQmMRukGxw2fa1eQyR/8qt5JMuJdWf7Puwz0cZGAsx8Z9vBtsk2wxdmjGnbFNXGTYoFYhmqbcRO9AILvaVvtnVyAfvdYuy48IqmEuBuz+hCEKGjFhs5UA6w3JNsidXps/VhhXd7T5kgKX04VIri4JOJCkHoHFOsghKuU1QIn4+u9+afHNqt6HToj03TfFMhdo6T7d7xq2M28IT+g+rxif4hKCnc1QbkniFr3HdA1ofVUMQGfomQMyJX5tx5d5SPTKgT1UJYdh+Q20PWhWEfkG1jPeWEJwh3VAk+14nVu2AtBF/oH6ke8ScLF4e/PoPFJ2K+9ItNhGGkQrKudb4uRtk1nS/lPK0YQVkL1yXXdC4s534SWdOHGCuQQ6PQ66kEeGJebMQdq1bIKIy98vXzrexJtlhAPrNCTMz/9zrWWEB6xWDMhaz46G7cFj8iH8QRxnYPdAAAAABJRU5ErkJggg==') !important;
@@ -37,7 +37,10 @@
         background-position: center center !important;
     }
     square.move-dest:hover {
-        background: rgba(116,106,195,0.3) !important;
+        background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFwSURBVHgB7ZbtTcMwEIYvnYAN8AjZADYgG9AN8AbNBrBBygQREwQmMRukGxw2fa1eQyR/8qt5JMuJdWf7Puwz0cZGAsx8Z9vBtsk2wxdmjGnbFNXGTYoFYhmqbcRO9AILvaVvtnVyAfvdYuy48IqmEuBuz+hCEKGjFhs5UA6w3JNsidXps/VhhXd7T5kgKX04VIri4JOJCkHoHFOsghKuU1QIn4+u9+afHNqt6HToj03TfFMhdo6T7d7xq2M28IT+g+rxif4hKCnc1QbkniFr3HdA1ofVUMQGfomQMyJX5tx5d5SPTKgT1UJYdh+Q20PWhWEfkG1jPeWEJwh3VAk+14nVu2AtBF/oH6ke8ScLF4e/PoPFJ2K+9ItNhGGkQrKudb4uRtk1nS/lPK0YQVkL1yXXdC4s534SWdOHGCuQQ6PQ66kEeGJebMQdq1bIKIy98vXzrexJtlhAPrNCTMz/9zrWWEB6xWDMhaz46G7cFj8iH8QRxnYPdAAAAABJRU5ErkJggg==') !important;
+        background-repeat: no-repeat !important;
+        background-position: center center !important;
+        background: rgba(255,255,255,0);
     }
     square.oc.move-dest {
         border: 2px solid #FFFFFF !important;
