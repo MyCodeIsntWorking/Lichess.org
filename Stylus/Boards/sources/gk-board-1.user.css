@@ -95,9 +95,9 @@
         background: radial-gradient(ellipse at center, rgba(208,120,173,0) 0%, rgba(208,69,149,0) 50%, rgba(169,0,0,0) 89%, rgba(158,0,0,0) 100%);
     }
     .board-editor .spare .no-square.selected-square {
-        background: rgba(116,106,0.50);
+        background: rgba(116,106,195,0.60);
     }
     .board-editor .spare .no-square:hover {
-        background: rgba(116,106,0.45) !important;
+        background: rgba(116,106,195,0.60) !important;
     }
 }
