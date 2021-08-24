@@ -13,10 +13,10 @@
 # Screenshots:
 <p align="center">
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/gk-board-1.png"><br>
-<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">The Kasparov Chess piece sets can you find here</a><br><br><br>
+<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">The Kasparov Chess pieces sets can you find here</a><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/frenzy.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/sterling.png"><br>
-<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">The Play Magnus piece set can you find here</a><br><br><br>
+<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">The Play Magnus pieces set can you find here</a><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 </p>
