@@ -2,7 +2,7 @@
  - Click one of the button bellow for Stylus instant install:
 
 # User CSS Codes:
-[![kc-board-1](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Board%201-3F5B6A.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/gk-board-1.user.css)
+[![kc-board-1](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Board%201-3F5B6A.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/kc-board-1.user.css)
 [![frenzy](https://img.shields.io/badge/Instant%20install%20-%20frenzy-54C688.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/frenzy.user.css)
 [![sterling](https://img.shields.io/badge/Instant%20install%20-%20sterling-888888.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/sterling.user.css)
 
