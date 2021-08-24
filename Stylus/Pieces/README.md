@@ -17,7 +17,7 @@
 
 # Development status:
  - Active
- - Last update: 22.08.2021
+ - Last update: 24.08.2021
 
 # Screenshots:
 <p align="center">
