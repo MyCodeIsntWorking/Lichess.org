@@ -15,5 +15,5 @@
 
 # Themes:
 <p align="center">
- <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/images/screenshots/themes.png" /></a>
+ <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/screenshots/themes.png" /></a>
 </p>
