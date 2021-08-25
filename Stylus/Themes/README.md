@@ -21,5 +21,6 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/screenshots/light-minimalistic-lobby.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/screenshots/transparent-minimalistic-lobby.png">
-<a href="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/backgrounds/001.png">Background image</a>
+<a href="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/backgrounds/001.png">Background image</a><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/screenshots/seperator.png"><br><br><br>
 </p>
