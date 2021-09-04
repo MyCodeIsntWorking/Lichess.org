@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Transparent - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.1.0
+@version        1.1.1
 @description    Transparent - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,20 +14,15 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      03/09/2021 - 07:50       */
+    /*      04/09/2021 - 11:55       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.1.0              */
+    /*            1.1.1              */
     /*                               */
     /*********************************/
-
-
-    #main-wrap {
-        display: flex;
-    }
 
 
     /*********************************/
@@ -123,6 +118,10 @@
     .tour-spotlight:hover {
         background: rgba(16,43,68,0.66);
     }
+    
+    .lobby .timeline {
+        margin-left: 10px;
+    }
 
     .timeline {
         border: 1px solid #404040;
@@ -130,8 +129,6 @@
         background: rgba(204,204,204,0.05);
         width: 93.5%;
         margin-top: 11px;
-        margin-left: 10px !important;
-        /* max-height: 53%; */
         margin-bottom: 11px;
         box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
     }
