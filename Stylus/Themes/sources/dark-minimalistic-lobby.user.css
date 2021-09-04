@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Dark - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.1.7
+@version        1.1.8
 @description    Dark - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      04/09/2021 - 11:55       */
+    /*      04/09/2021 - 12:00       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.1.7              */
+    /*            1.1.8              */
     /*                               */
     /*********************************/
 
@@ -569,21 +569,6 @@
 
     .puz-clock__pov {
         color: #d64f00;
-    }
-
-
-
-
-
-    /*********************************/
-    /*                               */
-    /*            TIMELINE           */
-    /*                               */
-    /*********************************/
-    main.page-small {
-        position: absolute;
-        left: 50%;
-        transform: translate(-50%);
     }
 
 
