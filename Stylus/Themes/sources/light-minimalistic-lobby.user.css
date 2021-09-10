@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Light - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.1.1
+@version        1.1.2
 @description    Light - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      04/09/2021 - 12:00       */
+    /*      10/09/2021 - 08:20       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.1.1              */
+    /*            1.1.2              */
     /*                               */
     /*********************************/
 
@@ -669,5 +669,18 @@
     /*********************************/
     .forum.forum-categ {
         width: 100% !important;
+    }
+
+
+
+
+
+    /*********************************/
+    /*                               */
+    /*             BLOG              */
+    /*                               */
+    /*********************************/
+    .ublog-post-card--link:hover {
+        box-shadow: 0 0 5px #d64f00, 0 0 20px #d64f00;
     }
 }
