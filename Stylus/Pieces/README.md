@@ -20,13 +20,14 @@
 [![kc-set-2](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Set%202-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kc-set-2.user.css)
 [![kc-set-3](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Set%203-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kc-set-3.user.css)
 [![kosal](https://img.shields.io/badge/Instant%20install%20-%20kosal-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kosal.user.css)
-[![letter](https://img.shields.io/badge/Instant%20install%20-%20letter-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/letter.user.css)
-[![pm-set-1](https://img.shields.io/badge/Instant%20install%20-%20play--magnus%20--%20Set%201-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/pm-set-1.user.css)
-[![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty-luxury.user.css)
+[![leipzig](https://img.shields.io/badge/Instant%20install%20-%20leipzig-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/leipzig.user.css)
+[![letter](https://img.shields.io/badge/Instant%20install%20-%20letter-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/letter.user.css)
+[![pm-set-1](https://img.shields.io/badge/Instant%20install%20-%20play--magnus%20--%20Set%201-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/pm-set-1.user.css)
+[![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty-luxury.user.css)
 
 # Development status:
  - Active
- - Last update: 02.10.2021
+ - Last update: 03.10.2021
 
 # Screenshots:
 <p align="center">
@@ -66,6 +67,8 @@
 <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards">The Kasparov Chess boards can you find here</a><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/kosal.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/leipzig.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/letter.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
