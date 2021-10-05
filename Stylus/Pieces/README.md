@@ -30,6 +30,7 @@
 [![riohacha](https://img.shields.io/badge/Instant%20install%20-%20riohacha-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/riohacha.user.css)
 [![staunty](https://img.shields.io/badge/Instant%20install%20-%20staunty-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty.user.css)
 [![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty-luxury.user.css)
+[![tatiana](https://img.shields.io/badge/Instant%20install%20-%20tatiana-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/tatiana.user.css)
 
 # Development status:
  - Active
@@ -94,5 +95,7 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/staunty.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/staunty-luxury.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/tatiana.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 </p>
