@@ -5,6 +5,7 @@
 [![alpha](https://img.shields.io/badge/Instant%20install%20-%20alpha-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/alpha.user.css)<br>
 [![california](https://img.shields.io/badge/Instant%20install%20-%20california-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/california.user.css)<br>
 [![cburnett](https://img.shields.io/badge/Instant%20install%20-%20cburnett-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/cburnett.user.css)<br>
+[![cburnett-ghostery](https://img.shields.io/badge/Instant%20install%20-%20cburnett-ghostery-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/cburnett-ghostery.user.css)<br>
 [![chess7](https://img.shields.io/badge/Instant%20install%20-%20chess7-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chess7.user.css)<br>
 [![chess24](https://img.shields.io/badge/Instant%20install%20-%20chess24-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chess24.user.css)<br>
 [![chessnut](https://img.shields.io/badge/Instant%20install%20-%20chessnut-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chessnut.user.css)<br>
@@ -30,12 +31,12 @@
 [![riohacha](https://img.shields.io/badge/Instant%20install%20-%20riohacha-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/riohacha.user.css)<br>
 [![spatial](https://img.shields.io/badge/Instant%20install%20-%20spatial-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/spatial.user.css)<br>
 [![staunty](https://img.shields.io/badge/Instant%20install%20-%20staunty-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty.user.css)<br>
-[![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty-luxury.user.css)<br>
-[![tatiana](https://img.shields.io/badge/Instant%20install%20-%20tatiana-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/tatiana.user.css)<br>
+[![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty-luxury.user.css)<br>
+[![tatiana](https://img.shields.io/badge/Instant%20install%20-%20tatiana-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/tatiana.user.css)<br>
 
 # Development status:
  - Active
- - Last update: 05.10.2021
+ - Last update: 12.10.2021
 
 # Screenshots:
 <p align="center">
@@ -45,7 +46,8 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/california.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/cburnett.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/cburnett.png"><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/cburnett-ghostery.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chess7.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
