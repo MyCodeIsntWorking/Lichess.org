@@ -1,12 +1,12 @@
 /* ==UserStyle==
 @name           Lichess.org - light Board
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards
-@version        1.0.0
+@version        1.0.1
 @description    light Board
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards
 @supportURL     https://github.com/MyCodeIsntWorking/Lichess.org/issues
-@updateURL      https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/light.user.css
+@updateURL      https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/light.user.css
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://lichess.org/") {
