@@ -26,17 +26,18 @@
 [![libra](https://img.shields.io/badge/Instant%20install%20-%20libra-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/libra.user.css)<br>
 [![maestro](https://img.shields.io/badge/Instant%20install%20-%20maestro-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/maestro.user.css)<br>
 [![merida](https://img.shields.io/badge/Instant%20install%20-%20merida-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/merida.user.css)<br>
-[![mono](https://img.shields.io/badge/Instant%20install%20-%20mono-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/mono.user.css)<br>
-[![pm-set-1](https://img.shields.io/badge/Instant%20install%20-%20play--magnus%20--%20Set%201-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/pm-set-1.user.css)<br>
-[![riohacha](https://img.shields.io/badge/Instant%20install%20-%20riohacha-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/riohacha.user.css)<br>
-[![spatial](https://img.shields.io/badge/Instant%20install%20-%20spatial-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/spatial.user.css)<br>
-[![staunty](https://img.shields.io/badge/Instant%20install%20-%20staunty-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty.user.css)<br>
+[![material-design](https://img.shields.io/badge/Instant%20install%20-%20material--design-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/material-design.user.css)<br>
+[![mono](https://img.shields.io/badge/Instant%20install%20-%20mono-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/mono.user.css)<br>
+[![pm-set-1](https://img.shields.io/badge/Instant%20install%20-%20play--magnus%20--%20Set%201-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/pm-set-1.user.css)<br>
+[![riohacha](https://img.shields.io/badge/Instant%20install%20-%20riohacha-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/riohacha.user.css)<br>
+[![spatial](https://img.shields.io/badge/Instant%20install%20-%20spatial-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/spatial.user.css)<br>
+[![staunty](https://img.shields.io/badge/Instant%20install%20-%20staunty-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty.user.css)<br>
 [![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty-luxury.user.css)<br>
 [![tatiana](https://img.shields.io/badge/Instant%20install%20-%20tatiana-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/tatiana.user.css)<br>
 
 # Development status:
  - Active
- - Last update: 12.10.2021
+ - Last update: 21.11.2021
 
 # Screenshots:
 <p align="center">
@@ -85,6 +86,8 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/libra.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/maestro.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/material-design.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/merida.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
