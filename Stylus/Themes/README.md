@@ -8,7 +8,7 @@
 
 # Development status:
  - Active
- - Last update: 05.10.2021
+ - Last update: 04.01.2022
 
 # Screenshots:
 <p align="center">
@@ -19,6 +19,6 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/screenshots/light-minimalistic-lobby.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/screenshots/transparent-minimalistic-lobby.png">
-<a href="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/backgrounds/001.png">Background image</a><br><br><br>
+<a href="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/backgrounds/001.png">Used background image</a><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/screenshots/seperator.png"><br><br><br>
 </p>
