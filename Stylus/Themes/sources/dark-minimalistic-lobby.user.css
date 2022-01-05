@@ -14,7 +14,7 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      05/01/2022 - 19:55       */
+    /*      05/01/2022 - 20:40       */
     /*                               */
     /*-------------------------------*/
     /*                               */
@@ -351,6 +351,15 @@
 
     #main-wrap>main>div.lobby__support>a:nth-child(1)>span>span {
         display: none;
+    }
+    
+    /* Patron Wing Profile Page */
+    .trophy.patron {
+        color: #629924;
+    }
+    
+    .trophy.patron:hover {
+        color: #bf811d;
     }
 
     /* Store */
@@ -712,5 +721,44 @@
         transform: scale(1.05);
         transition: transform .15s;
         z-index: 9999;
+    }
+
+
+
+
+
+    /*********************************/
+    /*                               */
+    /*            PROFILE            */
+    /*                               */
+    /*********************************/
+    .sub-ratings {
+        background: #302E2C;
+        border-radius: 3px;
+        padding: 1vmin;
+        margin-right: 10px;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    }
+    
+    .sub-ratings a::before {
+        color: #d64f00;
+        opacity: 0.4;
+    }
+    
+    .sub-ratings a.empty::before {
+        color: #d64f00;
+        opacity: 0.8;
+    }
+    
+    .sub-ratings a[href]:hover::before,
+    .sub-ratings a:hover i,
+    .sub-ratings a:hover::before {
+        color: #d64f00;
+        opacity: 1 !important;
+    }
+    
+    .sub-ratings a[href]:hover,
+    .sub-ratings a:hover {
+        background: #262421;
     }
 }
