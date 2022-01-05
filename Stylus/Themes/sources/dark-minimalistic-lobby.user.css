@@ -759,6 +759,6 @@
     
     .sub-ratings a[href]:hover,
     .sub-ratings a:hover {
-        background: #262421;
+        background: rgba(48, 46, 44, 1);
     }
 }
