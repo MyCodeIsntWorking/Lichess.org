@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Dark - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.2.2
+@version        1.2.3
 @description    Dark - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      05/01/2022 - 20:40       */
+    /*      07/01/2022 - 20:45       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.2.2              */
+    /*            1.2.3              */
     /*                               */
     /*********************************/
 
@@ -74,8 +74,7 @@
     .lobby__blog {
         margin-top: -30px;
     }
-
-
+    
     /* Left Table */
     .lobby__side {
         border-radius: 3px;
@@ -121,10 +120,13 @@
         background: #2E2C29;
         border-bottom: 2px solid #262421;
     }
-
+    
+    .tour-spotlight i.img::before {
+        color: #d64f00;
+    }
+    
     .tour-spotlight:hover {
         background: rgba(153, 151, 146, .4);
-        color: #d64f00;
     }
 
     .lobby .timeline {
@@ -709,15 +711,18 @@
     /*             BLOG              */
     /*                               */
     /*********************************/
-    .ublog-post-card--link:hover {
-        box-shadow: 0 0 8px #d64f00, 0 0 10px #d64f00;
+    .ublog-post-card--link:hover,
+    .blog-cards>a:hover {
+        box-shadow: none;
     }
     
-    .ublog-post-card {
+    .ublog-post-card,
+    .blog-cards>a {
         transition: transform .15s;
     }
     
-    .ublog-post-card:hover {
+    .ublog-post-card:hover,
+    .blog-cards>a:hover {
         transform: scale(1.05);
         transition: transform .15s;
         z-index: 9999;
@@ -733,7 +738,7 @@
     /*                               */
     /*********************************/
     .sub-ratings {
-        background: #302E2C;
+        background: #262421;
         border-radius: 3px;
         padding: 1vmin;
         margin-right: 10px;
@@ -760,5 +765,62 @@
     .sub-ratings a[href]:hover,
     .sub-ratings a:hover {
         background: rgba(48, 46, 44, 1);
+    }
+
+
+
+
+
+    /*********************************/
+    /*                               */
+    /*          Tournaments          */
+    /*                               */
+    /*********************************/
+    .tour-home__side h2,
+    .tour-home__side h2 a {
+        color: #d64f00;
+    }
+    
+    .tour-home__side {
+        background: #262421;
+        border-radius: 3px;
+        padding: 1vmin;
+        margin-right: 0px;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    }
+    
+    .leaderboard,
+    .scheduled {
+        background: #302E2C;
+        border-radius: 3px;
+        padding: 1vmin;
+        margin-right: 0px;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    }
+    
+    .scheduled a:hover {
+        background: rgba(153, 151, 146, .4);
+    }
+
+
+
+
+
+    /*********************************/
+    /*                               */
+    /*             Video             */
+    /*                               */
+    /*********************************/
+    .video .subnav {
+        background: #262421;
+        border-radius: 3px;
+        padding: 1vmin;
+        margin-right: 10px;
+        margin-top: -1px;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    }
+    
+    .subnav a:hover, .tv-channel>span:hover::before {
+        color: #d64f00;
     }
 }
