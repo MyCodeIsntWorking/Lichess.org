@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Dark - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.2.5
+@version        1.2.6
 @description    Dark - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      09/01/2022 - 08:40       */
+    /*      12/01/2022 - 09:30       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.2.5              */
+    /*            1.2.6              */
     /*                               */
     /*********************************/
 
@@ -128,11 +128,7 @@
         background: #2E2C29;
         border-bottom: 2px solid #262421;
     }
-    /*
-    .tour-spotlight i.img::before {
-        color: #bababa;
-    }
-    */
+    
     .tour-spotlight:hover {
         background: rgba(153, 151, 146, .4);
         color: #3692e7;
@@ -826,7 +822,8 @@
         box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
     }
     
-    .tour__duels a:hover {
+    .tour__duels a:hover,
+    .tour__player-info .pairings tr:hover {
         background: #2b455d;
     }
 
