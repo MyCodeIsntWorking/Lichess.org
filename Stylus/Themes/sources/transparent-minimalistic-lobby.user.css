@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Transparent - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.1.5
+@version        1.1.6
 @description    Transparent - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      04/01/2022 - 19:20       */
+    /*      16/01/2022 - 15:40       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.1.5              */
+    /*            1.1.6              */
     /*                               */
     /*********************************/
 
@@ -101,9 +101,23 @@
         margin-bottom: 0.7em;
         margin-left: 5px;
     }
+    
+    .lobby__streams .stream strong:before {
+        color: #629924;
+    }
+    
+    .lobby__streams .stream.highlight strong {
+        color: #bf811d;
+    }
+    
+    .lobby__streams .stream.highlight strong:hover {
+        color: #3692e7;
+    }
 
     .lobby__spotlights {
-        border: 1px solid #404040;
+        border-top: 1px solid #404040;
+        border-left: 1px solid #404040;
+        border-right: 1px solid #404040;
         border-radius: 3px;
         background: rgba(204,204,204,0.05);
         width: 93.5%;
@@ -114,6 +128,7 @@
     .tour-spotlight.invert,
     .tour-spotlight.event-spotlight {
         background: rgba(204,204,204,0.05);
+        border-bottom: 1px solid #404040;
     }
     .tour-spotlight:hover {
         background: rgba(16,43,68,0.66);
@@ -138,7 +153,13 @@
         flex-direction: column;
         align-items: center;
         background: rgba(204,204,204,0.05);
-    transition: all 150ms;
+        border-bottom: 1px solid #404040;
+        transition: all 150ms;
+        color: #CCCCCC;
+    }
+    
+    .timeline .entry a {
+        color: #CCCCCC;
     }
 
     .timeline .entry:hover {
@@ -160,6 +181,20 @@
         margin-top: 4em;
         margin-left: 6.4em;
         opacity: 0.7;
+        opacity: 1;
+    }
+    
+    .bg-switch__track {
+        border: 3px solid #878787;
+        background-color: transparent;
+    }
+    
+    .bg-switch__thumb {
+        background: #878787 url("data:image/svg+xml;utf8,%3Csvg style='fill: %23262421;' width='14' height='13' viewBox='0 0 14 13' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z'%3E%3C/path%3E%3C/svg%3E") center no-repeat;
+    }
+    
+    .lobby__counters a {
+        color: #CCCCCC;
     }
 
 
@@ -318,7 +353,7 @@
     }
 
     .lobby__support a:hover {
-        background: #629924 !important;
+        background: rgba(98,153,36,.8) !important;
     }
 
     .lobby__support a:hover .lobby__support__text,
@@ -360,7 +395,7 @@
     }
 
     #main-wrap>main>div.lobby__support>a:nth-child(2):hover {
-        background: #bf811d !important;
+        background: rgba(191,129,29,.8) !important;
     }
 
     #main-wrap>main>div.lobby__support>a:nth-child(2):hover .lobby__support__text strong,
@@ -384,12 +419,20 @@
     .lobby__about a {
         margin-right: 0.6em;
         margin-left: 0.6em;
+        color: #CCCCCC;
     }
 
     .connect-links {
         display: flex;
         justify-content: center;
         align-content: center;
+    }
+
+
+    /* Unread Lichess Message */
+    .lobby__nope .lobby__app__content.unread-lichess-message {
+        margin-top: 32px;
+        height: 798px;
     }
 
 
@@ -691,7 +734,138 @@
     .ublog-post-card {
         background: rgba(0,0,0,0.4);
     }
-    .ublog-post-card--link:hover {
-        box-shadow: 0 0 5px #d64f00, 0 0 20px #d64f00;
+    .ublog-post-card--link:hover,
+    .blog-cards>a:hover {
+        box-shadow: none;
+    }
+    
+    .ublog-post-card,
+    .blog-cards>a {
+        transition: transform .15s;
+    }
+    
+    .ublog-post-card:hover,
+    .blog-cards>a:hover {
+        transform: scale(1.05);
+        transition: transform .15s;
+        z-index: 9999;
+    }
+
+
+
+
+
+    /*********************************/
+    /*                               */
+    /*            PROFILE            */
+    /*                               */
+    /*********************************/
+    .sub-ratings {
+        background: rgba(0,0,0,0.5);
+        border-radius: 3px;
+        padding: 1vmin;
+        margin-right: 10px;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    }
+    
+    .sub-ratings a::before {
+        color: #d64f00;
+        opacity: 0.4;
+    }
+    
+    .sub-ratings a.empty::before {
+        color: #d64f00;
+        opacity: 0.8;
+    }
+    
+    .sub-ratings a[href]:hover::before,
+    .sub-ratings a:hover i,
+    .sub-ratings a:hover::before {
+        color: #d64f00;
+        opacity: 1 !important;
+    }
+    
+    .sub-ratings a[href]:hover,
+    .sub-ratings a:hover {
+        background: rgba(16,43,68,0.66);
+    }
+    
+    /* Patron Wing */
+    .trophy.patron {
+        color: #629924;
+    }
+    
+    .trophy.patron:hover {
+        color: #bf811d;
+    }
+
+
+
+
+
+    /*********************************/
+    /*                               */
+    /*          Tournaments          */
+    /*                               */
+    /*********************************/
+    .tour-home__side h2,
+    .tour-home__side h2 a {
+        color: #d64f00;
+    }
+    
+    .tour-home__side {
+        background: rgba(0,0,0,0.6);
+        border-radius: 3px;
+        padding: 1vmin;
+        margin-right: 0px;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    }
+    
+    .leaderboard,
+    .scheduled {
+        background: rgba(204,204,204,0.05);
+        border-radius: 3px;
+        padding: 1vmin;
+        margin-right: 0px;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    }
+    
+    .scheduled a:hover {
+        background: rgba(16,43,68,0.66);
+    }
+    
+    .tour__duels {
+        background: rgba(0,0,0,0.6);
+        border-radius: 3px;
+        padding: 1vmin;
+        margin-right: 0px;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    }
+    
+    .tour__duels a:hover,
+    .tour__player-info .pairings tr:hover {
+        background: rgba(27,73,116,0.72);
+    }
+
+
+
+
+
+    /*********************************/
+    /*                               */
+    /*             Video             */
+    /*                               */
+    /*********************************/
+    .video .subnav {
+        background: rgba(0,0,0,0.6);
+        border-radius: 3px;
+        padding: 1vmin;
+        margin-right: 10px;
+        margin-top: -1px;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    }
+    
+    .subnav a:hover, .tv-channel>span:hover::before {
+        color: #d64f00;
     }
 }

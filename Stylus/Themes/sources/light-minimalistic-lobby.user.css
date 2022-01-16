@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Light - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.1.4
+@version        1.1.5
 @description    Light - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      12/01/2022 - 09:30       */
+    /*      16/01/2022 - 15:40       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.1.4              */
+    /*            1.1.5              */
     /*                               */
     /*********************************/
 
@@ -115,7 +115,9 @@
     }
 
     .lobby__spotlights {
-        border: 1px solid #D9D9D9;
+        border-top: 1px solid #D9D9D9;
+        border-left: 1px solid #D9D9D9;
+        border-right: 1px solid #D9D9D9;
         border-radius: 3px;
         background: #FFFFFF;
         width: 93.5%;
@@ -374,15 +376,6 @@
 
     #main-wrap>main>div.lobby__support>a:nth-child(1)>span>span {
         display: none;
-    }
-    
-    /* Patron Wing Profile Page */
-    .trophy.patron {
-        color: #629924;
-    }
-    
-    .trophy.patron:hover {
-        color: #bf811d;
     }
 
     /* Store */
@@ -788,6 +781,15 @@
     .sub-ratings a[href]:hover,
     .sub-ratings a:hover {
         background: rgba(221, 235, 248, .8);
+    }
+    
+    /* Patron Wing */
+    .trophy.patron {
+        color: #629924;
+    }
+    
+    .trophy.patron:hover {
+        color: #bf811d;
     }
 
 
