@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Dark - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.2.7
+@version        1.2.8
 @description    Dark - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      16/01/2022 - 15:40       */
+    /*      16/01/2022 - 16:05       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.2.7              */
+    /*            1.2.8              */
     /*                               */
     /*********************************/
 
@@ -114,9 +114,7 @@
     }
 
     .lobby__spotlights {
-        border-top: 1px solid #404040;
-        border-left: 1px solid #404040;
-        border-right: 1px solid #404040;
+        border: 1px solid #404040;
         border-radius: 3px;
         background: #2E2C29;
         width: 93.5%;
