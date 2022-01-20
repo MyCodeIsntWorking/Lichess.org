@@ -56,8 +56,8 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chess7.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chess24.png"><br><br><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chess24-new.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chess24.png"><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chess24-new.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chess24-new-black.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chessnut.png"><br><br><br>
