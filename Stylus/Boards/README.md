@@ -8,6 +8,7 @@
 [![dark](https://img.shields.io/badge/Instant%20install%20-%20dark-54524E.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/dark.user.css)<br>
 [![frenzy](https://img.shields.io/badge/Instant%20install%20-%20frenzy-54C688.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/frenzy.user.css)<br>
 [![sterling](https://img.shields.io/badge/Instant%20install%20-%20sterling-888888.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/sterling.user.css)<br>
+[![frenzy-tactics](https://img.shields.io/badge/Instant%20install%20-%20frenzy--tactics-866CB3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/frenzy-tactics.user.css)<br>
 [![grey-creme](https://img.shields.io/badge/Instant%20install%20-%20grey--creme-E7E3D1.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/grey-creme.user.css)<br>
 [![kc-board-1](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Board%201-3F5B6A.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/kc-board-1.user.css)<br>
 [![kc-board-2](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Board%202-9FB4C1.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/kc-board-2.user.css)<br>
@@ -33,6 +34,7 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/frenzy.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/sterling.png"><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/frenzy-tactics.png"><br>
 <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">Play Magnus piece set can you find here</a><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/grey-creme.png"><br><br><br>
