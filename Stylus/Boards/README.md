@@ -3,6 +3,7 @@
 
 # User CSS Codes:
 [![chess24-01](https://img.shields.io/badge/Instant%20install%20-%20chess24--01-CBE5E4.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/chess24-01.user.css)<br>
+[![lightwood](https://img.shields.io/badge/Instant%20install%20-%20lightwood-DDD6C5.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/lightwood.user.css)<br>
 [![light](https://img.shields.io/badge/Instant%20install%20-%20light-EDEBE9.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/light.user.css)<br>
 [![dark](https://img.shields.io/badge/Instant%20install%20-%20dark-54524E.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/dark.user.css)<br>
 [![frenzy](https://img.shields.io/badge/Instant%20install%20-%20frenzy-54C688.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/frenzy.user.css)<br>
@@ -14,7 +15,6 @@
 [![kc-board-4](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Board%204-694F34.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/kc-board-4.user.css)<br>
 [![kc-board-5](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Board%205-6E845B.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/kc-board-5.user.css)<br>
 [![lightgrey-brown](https://img.shields.io/badge/Instant%20install%20-%20lightgrey--brown-7D6451.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/lightgrey-brown.user.css)<br>
-[![lightwood](https://img.shields.io/badge/Instant%20install%20-%20lightwood-DDD6C5.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/lightwood.user.css)<br>
 
 # Development status:
  - Active
