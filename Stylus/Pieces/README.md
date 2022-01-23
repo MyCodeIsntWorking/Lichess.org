@@ -33,6 +33,7 @@
 [![material-design](https://img.shields.io/badge/Instant%20install%20-%20material--design-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/material-design.user.css)<br>
 [![mono](https://img.shields.io/badge/Instant%20install%20-%20mono-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/mono.user.css)<br>
 [![pm-set-1](https://img.shields.io/badge/Instant%20install%20-%20play--magnus%20--%20Set%201-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/pm-set-1.user.css)<br>
+[![pm-set-2](https://img.shields.io/badge/Instant%20install%20-%20play--magnus%20--%20Set%202-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/pm-set-2.user.css)<br>
 [![riohacha](https://img.shields.io/badge/Instant%20install%20-%20riohacha-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/riohacha.user.css)<br>
 [![spatial](https://img.shields.io/badge/Instant%20install%20-%20spatial-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/spatial.user.css)<br>
 [![staunty](https://img.shields.io/badge/Instant%20install%20-%20staunty-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty.user.css)<br>
@@ -41,7 +42,7 @@
 
 # Development status:
  - Active
- - Last update: 22.01.2022
+ - Last update: 23.01.2022
 
 # Screenshots:
 <p align="center">
@@ -102,7 +103,8 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/mono.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/pm-set-1.png"><br>
-<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards">The Frenzy & Sterling board can you find here</a><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/pm-set-2.png"><br>
+<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards">The Frenzy, Sterling & frenzy tactics board can you find here</a><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/riohacha.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
