@@ -26,7 +26,8 @@
  <br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/chess24-avantgarde.png"><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/chess24-lightwood.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/chess24-lightwood.png"><br>
+<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">chess24 piece sets can you find here</a><br><br><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/light.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
@@ -35,7 +36,7 @@
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/frenzy.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/sterling.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/frenzy-tactics.png"><br>
-<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">Play Magnus piece set can you find here</a><br><br><br>
+<a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">Play Magnus piece sets can you find here</a><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/grey-creme.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
