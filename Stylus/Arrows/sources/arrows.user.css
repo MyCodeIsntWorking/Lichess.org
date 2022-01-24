@@ -1,0 +1,88 @@
+/* ==UserStyle==
+@name           Lichess.org - Arrows
+@namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Arrows
+@version        1.0.0
+@description    Arrows
+@author         BrainAFK
+@homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Arrows
+@supportURL     https://github.com/MyCodeIsntWorking/Lichess.org/issues
+@updateURL      https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Arrows/sources/arrows.user.css
+==/UserStyle== */
+
+@-moz-document url-prefix("https://lichess.org/") {
+
+
+
+/* --------------------------------------------------------------- */
+/* ---               Customizable Color Settings               --- */
+/* --------------------------------------------------------------- */
+
+/* --------------------------------------------------------------- */
+/* ---                Colors can you found here:               --- */
+/* ---   https://www.w3schools.com/colors/colors_picker.asp    --- */
+/* --------------------------------------------------------------- */
+    :root {
+        --green: #00ff00;
+        --red: #ff00ff;
+        --blue: #00ffff;
+        --gold: #ffff00;
+    }
+
+
+
+/* ---------------------------------------- */
+/* --- DO NOT CHANGE ANYTHING FROM HERE --- */
+/* ---------------------------------------- */
+
+/* GREEN circles and arrows   [right] click */
+    line[stroke="#15781B"] {
+        stroke: var(--green) !important;
+    }
+
+    circle[stroke="#15781B"] {
+        stroke: var(--green) !important;
+    }
+
+    path[fill="#15781B"] {
+        fill: var(--green) !important;
+    }
+
+/* RED circles and arrows   [shift+right] click */
+    line[stroke="#882020"] {
+        stroke: var(--red) !important;
+    }
+
+    circle[stroke="#882020"] {
+        stroke: var(--red) !important;
+    }
+
+    path[fill="#882020"] {
+        fill: var(--red) !important;
+    }
+
+/* BLUE circles and arrows   [alt+right] click */
+    line[stroke="#003088"] {
+        stroke: var(--blue) !important;
+    }
+
+    circle[stroke="#003088"] {
+        stroke: var(--blue) !important;
+    }
+
+    path[fill="#003088"] {
+        fill: var(--blue) !important;
+    }
+
+/* GOLD circles and arrows   [shift+alt+right] click*/
+    line[stroke="#e68f00"] {
+        stroke: var(--gold) !important;
+    }
+
+    circle[stroke="#e68f00"] {
+        stroke: var(--gold) !important;
+    }
+
+    path[fill="#e68f00"] {
+        fill: var(--gold) !important;
+    }
+}
