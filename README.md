@@ -1,6 +1,9 @@
 # Stuff for the chess plattform https://lichess.org/
 
-[![lichess-lila](https://img.shields.io/badge/ornicar%20-%20lila-EDEBE9.svg?style=popout&logoColor=EDEBE9&labelColor=3D454D&logo=lichess)](https://github.com/ornicar/lila) [![lichess-chessground](https://img.shields.io/badge/ornicar%20-%20chessground-629924.svg?style=popout&logoColor=EDEBE9&labelColor=3D454D&logo=lichess)](https://github.com/ornicar/chessground) [![lichess-lichobile](https://img.shields.io/badge/veloce%20-%20lichobile-F0D9B5.svg?style=popout&logoColor=EDEBE9&labelColor=3D454D&logo=lichess)](https://github.com/veloce/lichobile) [![lichess-fishnet](https://img.shields.io/badge/niklasf%20-%20fishnet-B58863.svg?style=popout&logoColor=EDEBE9&labelColor=3D454D&logo=lichess)](https://github.com/niklasf/fishnet)
+[![lichess-lila](https://img.shields.io/badge/ornicar%20-%20lila-32CB55.svg?style=popout&logoColor=EDEBE9&labelColor=3D454D&logo=lichess)](https://github.com/ornicar/lila)
+[![lichess-chessground](https://img.shields.io/badge/ornicar%20-%20chessground-32CB55.svg?style=popout&logoColor=EDEBE9&labelColor=3D454D&logo=lichess)](https://github.com/ornicar/chessground)
+[![lichess-lichobile](https://img.shields.io/badge/veloce%20-%20lichobile-32CB55.svg?style=popout&logoColor=EDEBE9&labelColor=3D454D&logo=lichess)](https://github.com/veloce/lichobile)
+[![lichess-fishnet](https://img.shields.io/badge/niklasf%20-%20fishnet-32CB55.svg?style=popout&logoColor=EDEBE9&labelColor=3D454D&logo=lichess)](https://github.com/niklasf/fishnet)
 <br><br>
 
 <p align="center">
