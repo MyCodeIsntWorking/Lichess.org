@@ -1,18 +1,31 @@
-# Installation:
- - Click the button bellow for Stylus instant install:
- - Go to the editor mode and change the colors in line 25 - 28
+# Requirements:
+ - [**Stylus**](https://add0n.com/stylus.html) Browser Extension for: [**Chrome**](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [**Firefox**](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), or [**Opera**](https://addons.opera.com/en/extensions/details/stylus/).
+ - Edge user can use the [**Chrome Store Version**](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) for the extension.<br><br>
+ - [**Stylus is a Stylish fork without analytics !!!**](https://www.ghacks.net/2017/05/16/stylus-is-a-stylish-fork-without-analytics/)<br><br>
+[![alpha](https://img.shields.io/badge/openstyles%20-%20stylus-28FCFC.svg?style=popout&logoColor=28FCFC&labelColor=323232&logo=github)](https://github.com/openstyles/stylus)
+<br>
 
-# User CSS Codes:
-[![arrows](https://img.shields.io/badge/Instant%20install%20-%20Arrows-ff00ff.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Arrows/sources/arrows.user.css)<br>
-
-# Development status:
- - Active
- - Last update: 24.01.2022
-
-# Screenshots:
+# Themes:
 <p align="center">
- <br><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Arrows/sources/screenshots/seperator.png"><br><br><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Arrows/sources/screenshots/arrows-preview.png"><br><br><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Arrows/sources/screenshots/seperator.png"><br><br><br>
+ <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Themes/sources/images/screenshots/themes.png" /></a>
+</p>
+
+# Pieces:
+<p align="center">
+ <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/pieces.png" /></a>
+</p>
+
+# Boards:
+<p align="center">
+ <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/boards.png" /></a>
+</p>
+
+# Arrows:
+<p align="center">
+ <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Arrows"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Arrows/sources/screenshots/arrows.png" /></a>
+</p>
+
+# Demo Sets:
+<p align="center">
+ <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Demo-Sets"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Demo-Sets/sources/screenshots/demo-sets.png" /></a>
 </p>
