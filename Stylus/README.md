@@ -20,6 +20,11 @@
  <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/boards.png" /></a>
 </p>
 
+# Arrows:
+<p align="center">
+ <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Arrows"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Arrows/sources/screenshots/arrows.png" /></a>
+</p>
+
 # Demo Sets:
 <p align="center">
  <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Demo-Sets"><img src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Demo-Sets/sources/screenshots/demo-sets.png" /></a>
