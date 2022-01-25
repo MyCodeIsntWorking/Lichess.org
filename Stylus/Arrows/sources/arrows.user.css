@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Arrows
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Arrows
-@version        1.0.0
+@version        1.0.1
 @description    Arrows
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Arrows
@@ -22,10 +22,14 @@
 /* ---   https://www.w3schools.com/colors/colors_picker.asp    --- */
 /* --------------------------------------------------------------- */
     :root {
-        --green: #00ff00;
-        --red: #ff00ff;
-        --blue: #00ffff;
-        --gold: #ffff00;
+        --green-arrow: #00ff00;
+        --green-circle: #00ff00;
+        --red-arrow: #ff00ff;
+        --red-circle: #ff00ff;
+        --blue-arrow: #00ffff;
+        --blue-circle: #00ffff;
+        --gold-arrow: #ffff00;
+        --gold-circle: #ffff00;
     }
 
 
@@ -34,55 +38,47 @@
 /* --- DO NOT CHANGE ANYTHING FROM HERE --- */
 /* ---------------------------------------- */
 
-/* GREEN circles and arrows   [right] click */
+/* GREEN arrows and circles   [right] click */
     line[stroke="#15781B"] {
-        stroke: var(--green) !important;
+        stroke: var(--green-arrow) !important;
     }
-
-    circle[stroke="#15781B"] {
-        stroke: var(--green) !important;
-    }
-
     path[fill="#15781B"] {
-        fill: var(--green) !important;
+        fill: var(--green-arrow) !important;
+    }
+    circle[stroke="#15781B"] {
+        stroke: var(--green-circle) !important;
     }
 
-/* RED circles and arrows   [shift+right] click */
+/* RED arrows and circles   [shift+right] click */
     line[stroke="#882020"] {
-        stroke: var(--red) !important;
+        stroke: var(--red-arrow) !important;
     }
-
-    circle[stroke="#882020"] {
-        stroke: var(--red) !important;
-    }
-
     path[fill="#882020"] {
-        fill: var(--red) !important;
+        fill: var(--red-arrow) !important;
+    }
+    circle[stroke="#882020"] {
+        stroke: var(--red-circle) !important;
     }
 
-/* BLUE circles and arrows   [alt+right] click */
+/* BLUE arrows and circles   [alt+right] click */
     line[stroke="#003088"] {
-        stroke: var(--blue) !important;
+        stroke: var(--blue-arrow) !important;
     }
-
-    circle[stroke="#003088"] {
-        stroke: var(--blue) !important;
-    }
-
     path[fill="#003088"] {
-        fill: var(--blue) !important;
+        fill: var(--blue-arrow) !important;
+    }
+    circle[stroke="#003088"] {
+        stroke: var(--blue-circle) !important;
     }
 
-/* GOLD circles and arrows   [shift+alt+right] click*/
+/* GOLD arrows and circles   [shift+alt+right] click*/
     line[stroke="#e68f00"] {
-        stroke: var(--gold) !important;
+        stroke: var(--gold-arrow) !important;
     }
-
-    circle[stroke="#e68f00"] {
-        stroke: var(--gold) !important;
-    }
-
     path[fill="#e68f00"] {
-        fill: var(--gold) !important;
+        fill: var(--gold-arrow) !important;
+    }
+    circle[stroke="#e68f00"] {
+        stroke: var(--gold-circle) !important;
     }
 }
