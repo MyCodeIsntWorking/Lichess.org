@@ -24,13 +24,12 @@ Lichess.org Shadow Version Piece Sets:<br><br>
 [![libra](https://img.shields.io/badge/Instant%20install%20-%20libra-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/libra.user.css)<br>
 [![maestro](https://img.shields.io/badge/Instant%20install%20-%20maestro-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/maestro.user.css)<br>
 [![merida](https://img.shields.io/badge/Instant%20install%20-%20merida-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/merida.user.css)<br>
-[![material-design](https://img.shields.io/badge/Instant%20install%20-%20material--design-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/material-design.user.css)<br>
-[![mono](https://img.shields.io/badge/Instant%20install%20-%20mono-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/mono.user.css)<br>
-[![riohacha](https://img.shields.io/badge/Instant%20install%20-%20riohacha-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/riohacha.user.css)<br>
-[![spatial](https://img.shields.io/badge/Instant%20install%20-%20spatial-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/spatial.user.css)<br>
-[![staunty](https://img.shields.io/badge/Instant%20install%20-%20staunty-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty.user.css)<br>
-[![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty-luxury.user.css)<br>
-[![tatiana](https://img.shields.io/badge/Instant%20install%20-%20tatiana-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/tatiana.user.css)<br><br><br>
+[![mono](https://img.shields.io/badge/Instant%20install%20-%20mono-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/mono.user.css)<br>
+[![riohacha](https://img.shields.io/badge/Instant%20install%20-%20riohacha-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/riohacha.user.css)<br>
+[![spatial](https://img.shields.io/badge/Instant%20install%20-%20spatial-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/spatial.user.css)<br>
+[![staunty](https://img.shields.io/badge/Instant%20install%20-%20staunty-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty.user.css)<br>
+[![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty-luxury.user.css)<br>
+[![tatiana](https://img.shields.io/badge/Instant%20install%20-%20tatiana-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/tatiana.user.css)<br><br><br>
 Other Chess Platform Piece Sets For The Lichess.org Chess Platform:<br><br>
 [![chess24](https://img.shields.io/badge/Instant%20install%20-%20chess24-436AB3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chess24.user.css)<br>
 [![chess24-new](https://img.shields.io/badge/Instant%20install%20-%20chess24--new-436AB3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chess24-new.user.css)<br>
@@ -41,7 +40,9 @@ Other Chess Platform Piece Sets For The Lichess.org Chess Platform:<br><br>
 [![kc-set-2](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Set%202-7446FF.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kc-set-2.user.css)<br>
 [![kc-set-3](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Set%203-7446FF.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kc-set-3.user.css)<br>
 [![pm-set-1](https://img.shields.io/badge/Instant%20install%20-%20play--magnus%20--%20Set%201-4AB17F.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/pm-set-1.user.css)<br>
-[![pm-set-2](https://img.shields.io/badge/Instant%20install%20-%20play--magnus%20--%20Set%202-4AB17F.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/pm-set-2.user.css)<br>
+[![pm-set-2](https://img.shields.io/badge/Instant%20install%20-%20play--magnus%20--%20Set%202-4AB17F.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/pm-set-2.user.css)<br><br><br>
+Other Piece Sets For The Lichess.org Chess Platform:<br><br>
+[![material-design](https://img.shields.io/badge/Instant%20install%20-%20material--design-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/material-design.user.css)<br>
 
 # Development status:
  - Active
@@ -60,7 +61,6 @@ Other Chess Platform Piece Sets For The Lichess.org Chess Platform:<br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/cburnett-glass.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chess7.png"><br><br><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chessnut.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
@@ -89,8 +89,6 @@ Other Chess Platform Piece Sets For The Lichess.org Chess Platform:<br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/libra.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/maestro.png"><br><br><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/material-design.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/merida.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
@@ -122,5 +120,7 @@ Other Chess Platform Piece Sets For The Lichess.org Chess Platform:<br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/pm-set-1.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/pm-set-2.png"><br>
 <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards">The Frenzy, Sterling & frenzy tactics board can you find here</a><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/material-design.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 </p>
