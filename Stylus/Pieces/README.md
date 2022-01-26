@@ -2,6 +2,7 @@
  - Click one of the button bellow for Stylus instant install:
 
 # User CSS Codes:
+Lichess.org Piece Sets:
 [![alpha](https://img.shields.io/badge/Instant%20install%20-%20alpha-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/alpha.user.css)<br>
 [![california](https://img.shields.io/badge/Instant%20install%20-%20california-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/california.user.css)<br>
 [![cburnett](https://img.shields.io/badge/Instant%20install%20-%20cburnett-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/cburnett.user.css)<br>
@@ -30,11 +31,12 @@
 [![staunty](https://img.shields.io/badge/Instant%20install%20-%20staunty-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty.user.css)<br>
 [![staunty-luxury](https://img.shields.io/badge/Instant%20install%20-%20staunty%20luxury-D6D5D3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/staunty-luxury.user.css)<br>
 [![tatiana](https://img.shields.io/badge/Instant%20install%20-%20tatiana-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/tatiana.user.css)<br>
+Other Chess Platform Piece Sets:
 [![chess24](https://img.shields.io/badge/Instant%20install%20-%20chess24-436AB3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chess24.user.css)<br>
 [![chess24-new](https://img.shields.io/badge/Instant%20install%20-%20chess24--new-436AB3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chess24-new.user.css)<br>
 [![chess24-new-black](https://img.shields.io/badge/Instant%20install%20-%20chess24--new%20--%20black-436AB3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chess24-new-black.user.css)<br>
 [![chess24-new-black-shadow](https://img.shields.io/badge/Instant%20install%20-%20chess24--new%20--%20black%20--%20shadow-436AB3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chess24-new-black-shadow.user.css)<br>
-[![chess.com-bubblegum](https://img.shields.io/badge/Instant%20install%20-%20bubblegum-6C9D40.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/bubblegum.user.css)<br>
+[![chess.com-bubblegum](https://img.shields.io/badge/Instant%20install%20-%20chess.com%20--%20bubblegum-6C9D40.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/bubblegum.user.css)<br>
 [![kc-set-1](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Set%201-7446FF.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kc-set-1.user.css)<br>
 [![kc-set-2](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Set%202-7446FF.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kc-set-2.user.css)<br>
 [![kc-set-3](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Set%203-7446FF.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kc-set-3.user.css)<br>
