@@ -43,11 +43,11 @@ Other Chess Platform Piece Sets For The Lichess.org Chess Platform:<br><br>
 [![pm-set-2](https://img.shields.io/badge/Instant%20install%20-%20play--magnus%20--%20Set%202-4AB17F.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/pm-set-2.user.css)<br><br><br>
 Other Piece Sets For The Lichess.org Chess Platform:<br><br>
 [![material-design](https://img.shields.io/badge/Instant%20install%20-%20material--design-262421.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/material-design.user.css)<br>
-
+<br><br>
 # Development status:
  - Active
  - Last update: 26.01.2022
-
+<br><br>
 # Screenshots:
 <p align="center">
  <br><br>
