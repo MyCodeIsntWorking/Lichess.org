@@ -36,6 +36,7 @@ Other Chess Platform Piece Sets For The Lichess.org Chess Platform:<br><br>
 [![chess24-new-black](https://img.shields.io/badge/Instant%20install%20-%20chess24--new%20--%20black-436AB3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chess24-new-black.user.css)<br>
 [![chess24-new-black-shadow](https://img.shields.io/badge/Instant%20install%20-%20chess24--new%20--%20black%20--%20shadow-436AB3.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/chess24-new-black-shadow.user.css)<br>
 [![chess.com-bubblegum](https://img.shields.io/badge/Instant%20install%20-%20chess.com%20--%20bubblegum-6C9D40.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/bubblegum.user.css)<br>
+[![chess.com-neo](https://img.shields.io/badge/Instant%20install%20-%20chess.com%20--%20neo-6C9D40.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/neo.user.css)<br>
 [![kc-set-1](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Set%201-7446FF.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kc-set-1.user.css)<br>
 [![kc-set-2](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Set%202-7446FF.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kc-set-2.user.css)<br>
 [![kc-set-3](https://img.shields.io/badge/Instant%20install%20-%20kasparov--chess%20--%20Set%203-7446FF.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/kc-set-3.user.css)<br>
@@ -46,7 +47,7 @@ Other Piece Sets For The Lichess.org Chess Platform:<br><br>
 <br><br>
 # Development status:
  - Active
- - Last update: 26.01.2022
+ - Last update: 28.01.2022
 <br><br>
 # Screenshots:
 <p align="center">
@@ -110,7 +111,8 @@ Other Piece Sets For The Lichess.org Chess Platform:<br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/chess24-new-black-shadow.png"><br>
 <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards">The chess24 boards can you find here</a><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/bubblegum.png"><br><br><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/bubblegum.png"><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/neo.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/kc-set-1.png"><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Pieces/sources/screenshots/kc-set-2.png"><br>
