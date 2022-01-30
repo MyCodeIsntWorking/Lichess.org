@@ -1,0 +1,70 @@
+/* ==UserStyle==
+@name           Lichess.org - bubblegum Board
+@namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards
+@version        1.0.0
+@description    bubblegum Board
+@author         BrainAFK
+@homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Boards
+@supportURL     https://github.com/MyCodeIsntWorking/Lichess.org/issues
+@updateURL      https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/cc-bubblegum.user.css
+==/UserStyle== */
+
+@-moz-document url-prefix("https://lichess.org/") {
+    cg-board {
+        background-image: url('data:image/png;base64,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') !important;
+    }
+    .orientation-white .files coord:nth-child(2n+1),
+    .orientation-white .ranks coord:nth-child(2n),
+    .orientation-black .files coord:nth-child(2n),
+    .orientation-black .ranks coord:nth-child(2n+1) {
+        color: #FFFFFF !important;
+    }
+    .orientation-white .files coord:nth-child(2n),
+    .orientation-white .ranks coord:nth-child(2n+1),
+    .orientation-black .files coord:nth-child(2n+1),
+    .orientation-black .ranks coord:nth-child(2n) {
+        color: #FCD8DD !important;
+    }
+    square.selected {
+        background-color: rgba(127, 255, 240,0.45) !important;
+    }
+    square.last-move {
+        background-color: rgba(127, 255, 240,0.55) !important;
+    }
+    square.move-dest {
+        background: radial-gradient(rgba(127, 255, 240,0.45) 19%, rgba(0,0,0,0) 20%) !important;
+    }
+    square.move-dest:hover {
+        background: rgba(127, 255, 240,0.3) !important;
+    }
+    square.oc.move-dest {
+        background: radial-gradient(transparent 0%, transparent 79%, rgba(127, 255, 240,0.55) 80%) !important;
+    }
+    square.current-premove {
+        background-color: rgba(127, 255, 240,0.45) !important;
+    }
+    square.premove-dest {
+        background: radial-gradient(rgba(127, 255, 240,0.5) 19%, rgba(0,0,0,0) 20%) !important;
+    }
+    square.premove-dest:hover {
+        background: rgba(127, 255, 240,0.2) !important;
+    }
+    square.oc.premove-dest {
+        background: radial-gradient(transparent 0%, transparent 79%, rgba(127, 255, 240,0.2) 80%) !important;
+    }
+    #promotion-choice square {
+        background-color: rgba(127, 255, 240,0.45) !important;
+    }
+    #promotion-choice square:hover {
+        box-shadow: inset 0 0 48px 8px rgba(127, 255, 240,0.55) !important;
+    }
+    square.check {
+        background: rgba(128, 54, 78,0.75);
+    }
+    .board-editor .spare .no-square.selected-square {
+        background: rgba(127, 255, 240,0.50);
+    }
+    .board-editor .spare .no-square:hover {
+        background: rgba(127, 255, 240,0.45) !important;
+    }
+}
