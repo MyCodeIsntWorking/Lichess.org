@@ -5,6 +5,7 @@
 [![chess24-avantgarde](https://img.shields.io/badge/Instant%20install%20-%20chess24--avantgarde-CBE5E4.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/chess24-avantgarde.user.css)<br>
 [![chess24-lightwood](https://img.shields.io/badge/Instant%20install%20-%20chess24--lightwood-DDD6C5.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/chess24-lightwood.user.css)<br>
 [![chessarena-standart](https://img.shields.io/badge/Instant%20install%20-%20chessarena--standart-FF9E57.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/chessarena-standart.user.css)<br>
+[![chessarena-worldchess](https://img.shields.io/badge/Instant%20install%20-%20chessarena--worldchess-FF9E57.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/chessarena-worldchess.user.css)<br>
 [![chess.com-bubblegum](https://img.shields.io/badge/Instant%20install%20-%20chess.com--bubblegum-FCD8DD.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/cc-bubblegum.user.css)<br>
 [![light](https://img.shields.io/badge/Instant%20install%20-%20light-EDEBE9.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/light.user.css)<br>
 [![dark](https://img.shields.io/badge/Instant%20install%20-%20dark-54524E.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/dark.user.css)<br>
@@ -21,7 +22,7 @@
 
 # Development status:
  - Active
- - Last update: 06.02.2022
+ - Last update: 12.02.2022
 
 # Screenshots:
 <p align="center">
@@ -32,6 +33,7 @@
 <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">chess24 piece sets can you find here</a><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/chessarena-standart.png"><br>
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/chessarena-worldchess.png"><br>
 <a href="https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Pieces">chessarena piece set can you find here</a><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/seperator.png"><br><br><br>
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/screenshots/cc-bubblegum.png"><br>
