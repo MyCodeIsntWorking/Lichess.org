@@ -2,7 +2,7 @@
  - Click one of the button bellow for Stylus instant install:
 
 # User CSS Codes:
-[![queensgambit-final-game](https://img.shields.io/badge/Instant%20install%20-%20chess24--avantgarde-7F1502.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/queensgambit-final-game.user.css)<br>
+[![queensgambit-final-game](https://img.shields.io/badge/Instant%20install%20-%20queensgambit--final--game-7F1502.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/queensgambit-final-game.user.css)<br>
 [![chess24-avantgarde](https://img.shields.io/badge/Instant%20install%20-%20chess24--avantgarde-CBE5E4.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/chess24-avantgarde.user.css)<br>
 [![chess24-lightwood](https://img.shields.io/badge/Instant%20install%20-%20chess24--lightwood-DDD6C5.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/chess24-lightwood.user.css)<br>
 [![chessarena-standart](https://img.shields.io/badge/Instant%20install%20-%20chessarena--standart-FF9E57.svg?style=popout&logoColor=000000&labelColor=B58863&logo=lichess)](https://raw.githubusercontent.com/MyCodeIsntWorking/Lichess.org/main/Stylus/Boards/sources/chessarena-standart.user.css)<br>
