@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Transparent - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.1.7
+@version        1.1.8
 @description    Transparent - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      08/03/2022 - 16:40       */
+    /*      21/06/2022 - 06:50       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.1.7              */
+    /*            1.1.8              */
     /*                               */
     /*********************************/
 
@@ -552,6 +552,13 @@
 
     .puzzle__session a.current {
         background: #3279B5;
+    }
+
+    /* Daily Puzzle*/
+    .puzzle__side__theme--daily {
+        outline: 0px;
+        background: #629924;
+        color: #ffffff;
     }
 
     /* Puzzle Streak */
