@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Transparent - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.1.8
+@version        1.1.9
 @description    Transparent - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      21/06/2022 - 06:50       */
+    /*      19/07/2022 - 09:00       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.1.8              */
+    /*            1.1.9              */
     /*                               */
     /*********************************/
 
@@ -513,6 +513,69 @@
 
     .game__tournament .clock {
         color: #629924;
+    }
+
+
+
+
+
+    /*********************************/
+    /*                               */
+    /*            ANALYSE            */
+    /*                               */
+    /*********************************/
+    .analyse__underboard__menu>span:hover,
+    .analyse__underboard__menu>span.active {
+        color:#d64f00;
+    }
+    .analyse__underboard {
+        background: rgba(0,0,0,0.6);
+        padding: 1.4vmin 1.4vmin;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+        border-radius: 3px;
+        margin-top: 60px;
+    }
+    .analyse__underboard__panels {
+        --panel-height: unset !important;
+    }
+    .analyse__underboard .ctable {
+        margin-top: 35px;
+    }
+
+    .analyse__controls {
+        height: unset;
+    }
+
+    .advice-summary {
+        background: rgba(0,0,0,0.6);
+        padding: 1.4vmin 1.4vmin;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+        border-radius: 3px;
+        margin-top: 25px;
+    }
+
+    .analyse__puzzle {
+        background: rgba(0,0,0,0.6);
+        padding: 1.4vmin 1.4vmin;
+        box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+        border-radius: 3px;
+        margin-top: 25px;
+    }
+    .analyse__puzzle a::before {
+        color: #d64f00;
+    }
+
+
+
+
+
+    /*********************************/
+    /*                               */
+    /*           BROADCAST           */
+    /*                               */
+    /*********************************/
+    .relay-tour__text {
+        max-height: unset;
     }
 
 
