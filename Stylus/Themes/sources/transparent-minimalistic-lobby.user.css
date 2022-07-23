@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Transparent - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.2.0
+@version        1.2.1
 @description    Transparent - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      23/07/2022 - 16:15       */
+    /*      23/07/2022 - 16:55       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.2.0              */
+    /*            1.2.1              */
     /*                               */
     /*********************************/
 
@@ -616,16 +616,38 @@
     .puzzle__session a.current {
         background: #3279B5;
     }
-    
-    .tview2 move.fail,
-    .tview2 move.fail.active {
-         color: #cc3333;
-    }
+
     .tview2 move.good,
     .tview2 move.good.active,
     .tview2 move.win,
     .tview2 move.win.active {
+         color: #629924;
+         outline: 0px solid #306698;
+         font-weight: unset;
+    }
+    .tview2 move.win:hover {
+         background: #1c4322 !important;
+         color: #629924 !important;
+    }
+    .puzzle__moves move.good:hover glyph,
+    .puzzle__moves move.win:hover glyph {
         color: #629924;
+    }
+    .tview2 move.fail,
+    .tview2 move.fail.active {
+         color: #cc3333;
+         outline: 0px solid #306698;
+         font-weight: unset;
+    }
+    .tview2 move.fail:hover {
+         background: rgba(204, 51, 51, .25) !important;
+         color: #cc3333 !important;
+    }
+    .tview2 move.fail:hover index {
+         background: transparent !important;
+    }
+    .puzzle__moves move.fail:hover glyph {
+        color: #cc3333;
     }
 
     /* Daily Puzzle*/
