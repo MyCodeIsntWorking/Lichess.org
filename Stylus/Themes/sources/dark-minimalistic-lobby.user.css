@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Dark - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.3.2
+@version        1.3.3
 @description    Dark - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      23/07/2022 - 16:55       */
+    /*      23/07/2022 - 17:05       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.3.2              */
+    /*            1.3.3              */
     /*                               */
     /*********************************/
 
@@ -606,13 +606,18 @@
     .tview2 move.good.active,
     .tview2 move.win,
     .tview2 move.win.active {
-         color: #629924;
-         outline: 0px solid #306698;
-         font-weight: unset;
+        background: #1c4322 !important;
+        color: #629924;
+        outline: 0px solid #306698;
+        font-weight: unset;
+    }
+    .tview2 move.good.active,
+    .tview2 move.win.active {
+        background: #1c4322 !important;
     }
     .tview2 move.win:hover {
-         background: #1c4322 !important;
-         color: #629924 !important;
+        background: #1c4322 !important;
+        color: #629924 !important;
     }
     .puzzle__moves move.good:hover glyph,
     .puzzle__moves move.win:hover glyph {
@@ -620,16 +625,22 @@
     }
     .tview2 move.fail,
     .tview2 move.fail.active {
-         color: #cc3333;
-         outline: 0px solid #306698;
-         font-weight: unset;
+        color: #cc3333;
+        outline: 0px solid #306698;
+        font-weight: unset;
+    }
+    .tview2 move.fail.active {
+        background: rgba(204, 51, 51, .25) !important;
+    }
+    .tview2 move.fail.active index {
+        color: #ffffff !important;
     }
     .tview2 move.fail:hover {
-         background: rgba(204, 51, 51, .25) !important;
-         color: #cc3333 !important;
+        background: rgba(204, 51, 51, .25) !important;
+        color: #cc3333 !important;
     }
     .tview2 move.fail:hover index {
-         background: transparent !important;
+        background: transparent !important;
     }
     .puzzle__moves move.fail:hover glyph {
         color: #cc3333;
