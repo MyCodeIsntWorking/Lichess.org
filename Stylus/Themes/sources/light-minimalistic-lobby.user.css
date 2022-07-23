@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Light - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.2.1
+@version        1.2.2
 @description    Light - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      23/07/2022 - 17:05       */
+    /*      23/07/2022 - 17:25       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.2.1              */
+    /*            1.2.2              */
     /*                               */
     /*********************************/
 
@@ -616,7 +616,6 @@
     .tview2 move.good.active,
     .tview2 move.win,
     .tview2 move.win.active {
-        background: #1c4322 !important;
         color: #629924;
         outline: 0px solid #306698;
         font-weight: unset;
