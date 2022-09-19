@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Light - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.2.2
+@version        1.2.3
 @description    Light - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      23/07/2022 - 17:25       */
+    /*      19/09/2022 - 13:55       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.2.2              */
+    /*            1.2.3              */
     /*                               */
     /*********************************/
 
@@ -558,6 +558,10 @@
     }
     .analyse__puzzle a::before {
         color: #d64f00;
+    }
+    .analyse__controls .persistence {
+        color: #5e5e5e;
+        margin-right: 34px;
     }
 
 
