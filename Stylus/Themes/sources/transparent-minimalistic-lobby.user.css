@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Transparent - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.2.5
+@version        1.2.6
 @description    Transparent - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      01/02/2023 - 20:15       */
+    /*      01/02/2023 - 20:25       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.2.5              */
+    /*            1.2.6              */
     /*                               */
     /*********************************/
 
@@ -73,6 +73,30 @@
 
     .lobby__blog {
         margin-top: -30px;
+    }
+
+    /* Nav */
+    #top {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .site-title {
+        margin: 0rem 18% 1rem -2%;
+    }
+
+    .site-buttons {
+        margin: 0rem 0% 1rem 13%;
+    }
+
+    .site-buttons .dropdown {
+        right: unset;
+        top: 53px;
+    }
+    
+    .site-title-nav__donate {
+        display: none;
     }
 
 
