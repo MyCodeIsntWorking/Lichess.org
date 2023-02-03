@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Transparent - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.2.6
+@version        1.2.7
 @description    Transparent - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      01/02/2023 - 20:25       */
+    /*      04/02/2023 - 15:20       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.2.6              */
+    /*            1.2.7              */
     /*                               */
     /*********************************/
 
@@ -601,6 +601,15 @@
     /*********************************/
     .relay-tour__text {
         max-height: unset;
+    }
+
+    span.leaderboard {
+        background: none;
+        box-shadow: none;
+    }
+
+    .tabs-horiz span:hover {
+        color: #d64f00;
     }
 
 
