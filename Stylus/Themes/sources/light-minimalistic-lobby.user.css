@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Light - Minimalistic Lobby
 @namespace      https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
-@version        1.2.7
+@version        1.2.8
 @description    Light - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MyCodeIsntWorking/Lichess.org/tree/main/Stylus/Themes
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      03/01/2023 - 15:20       */
+    /*      20/04/2023 - 07:55       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.2.7              */
+    /*            1.2.8              */
     /*                               */
     /*********************************/
 
@@ -72,7 +72,7 @@
     }
 
     .lobby__blog {
-        margin-top: -30px;
+        margin-top: 0px;
     }
 
     /* Nav */
@@ -276,7 +276,7 @@
         text-shadow: 0 0 0 transparent !important;
         transition: all 150ms;
         width: 205px;
-        margin-top: -6px;
+        margin-top: -13px;
         font-size: 14px;
         font-weight: 600;
     }
@@ -302,7 +302,7 @@
         text-shadow: 0 0 0 transparent !important;
         transition: all 150ms;
         width: 205px;
-        margin-top: -6px;
+        margin-top: -13px;
         font-size: 14px;
         font-weight: 600;
     }
@@ -366,8 +366,9 @@
     /* Support */
     /* Donate */
     .lobby__support {
+        grid-area: puzzle;
         width: 225px;
-        margin-top: -30px;
+        margin-top: 0px;
         margin-left: -7px;
     }
 
@@ -428,12 +429,13 @@
 
     /* About */
     .lobby__about {
+        grid-area: tv;
         justify-content: center;
         align-content: center;
         background: #FFFFFF;
         border-radius: 3px;
         height: 75px;
-        margin-top: -30px;
+        margin-top: 0px;
         margin-right: -7px;
         box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
     }
